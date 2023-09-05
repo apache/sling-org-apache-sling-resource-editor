@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "readme": "A resource editor frontend for Apache Sling.",
   "dependencies": {
-  	"jquery": "1.11.2",
+  	"jquery": "3.5.0",
   	"bootbox": "4.4.0",
   	"jstree": "3.1.0",
   	"animate.css": "3.2.1",
