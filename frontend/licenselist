@@ -1,2 +1,0 @@
-#!/bin/sh
-"node/node" "node_modules/nlf/bin/nlf-cli.js" -d -r 0
